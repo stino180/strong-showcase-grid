@@ -76,12 +76,11 @@ export const site = {
   stats: [
     { label: "Height", value: `5'7"` },
     { label: "Suit", value: "38S" },
-    { label: "Chest", value: "—" },
     { label: "Waist", value: `31"` },
     { label: "Inseam", value: `28"` },
     { label: "Shoe", value: "8.5" },
-    { label: "Hair", value: "—" },
-    { label: "Eyes", value: "—" },
+    { label: "Hair", value: "Brown, blonde ombre" },
+    { label: "Eyes", value: "Brown" },
   ],
   compCard: { label: "Download comp card (PDF)", url: "/comp-card.pdf" },
   about:
